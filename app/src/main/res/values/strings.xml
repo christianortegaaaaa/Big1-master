@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Big1</string>
+    <string name="startbtn">Lets get started</string>
+    <string name="whatbtn">What is the Big One?</string>
+    <string name="before">Before an Earthquake</string>
+    <string name="after">After an Earthquake</string>
+    <string name="during">During an Earthquake</string>
+    <string name="areas">Staging Areas</string>
+    <string name="fault">Fault Finder</string>
+    <string name="back">Back</string>
+</resources>
