@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".MainMenu" />
         <activity android:name=".BigOnePage" />
-        <activity android:name=".InfoPage"></activity>
+        <activity android:name=".InfoPage" />
+        <activity android:name=".list_before"></activity>
     </application>
 
 </manifest>
